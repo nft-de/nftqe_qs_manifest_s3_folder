@@ -1,0 +1,14 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://consumer-goods/JD/jd_com/primary/partition_by_scrapedate/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "containsHeader": "true"
+    }
+}
