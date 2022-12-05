@@ -1,7 +1,7 @@
 {
     "fileLocations": [
         {
-            "URIs": [
+            "URIPrefixes": [
                 "s3://consumer-goods/JD/jd_com/primary/partition_by_scrapedate/"
             ]
         }
